@@ -1,11 +1,15 @@
-# Foreign Object Debris (FOD) Detection
 
+##  Foreign Object Debris (FOD) Detection
 
-
-https://github.com/user-attachments/assets/50d5f83d-23d1-4087-aed6-28e53affd37f
-
+The **FOD_detection_.pdf** file provides a **detailed explanation** of all the steps involved in this project.
 
 [FOD_detection_.pdf](https://github.com/user-attachments/files/19060479/FOD_detection_.pdf)
+
+## 🎥 Rendering with Splatfacto Big
+
+Here is a rendering result using **Splatfacto Big**:
+https://github.com/user-attachments/assets/50d5f83d-23d1-4087-aed6-28e53affd37f
+
 
 ## 🔗 References & Useful Links
 
