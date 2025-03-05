@@ -1,7 +1,6 @@
 
 ##  Foreign Object Debris (FOD) Detection
 
-The [FOD_detection_.pdf](https://github.com/user-attachments/files/19060479/FOD_detection_.pdf) file provides a **detailed explanation** of all the steps involved in this project.
 
 
 
