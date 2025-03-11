@@ -23,6 +23,8 @@ Here are some key references and resources used in this project:
 4. **Nerfstudio Documentation**  
    📖 https://docs.nerf.studio
 
+## Realised by ElGOURAIN ZINEB, BARGACHE KAOUTAR, AARAB YOUSSEF AND ACHALHI KAMAL
+
 
 
 
